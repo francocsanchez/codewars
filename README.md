@@ -1,4 +1,5 @@
 ### Ejercitacion?
+* [Abbreviatea Two Word Name](https://github.com/francocsanchez/codewars/blob/master/abbreviateaTwoWordName.js)
 * [Array de divisores](https://github.com/francocsanchez/codewars/blob/master/arrayDeDivisores.js)
 * [Buenas y malas ideas](https://github.com/francocsanchez/codewars/blob/master/buenasYMalasIdeas.js)
 * [Contador de ovejas](https://github.com/francocsanchez/codewars/blob/master/contadorDeOvejas.js)
