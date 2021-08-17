@@ -6,7 +6,6 @@ the original order of elements.
 
 function separarString(string) {
     let arrayString = string.split('');
-    let contarVocales;
     let total = arrayString.filter(word => word === 'a' || word === 'e' || word === 'i' || word === 'o' || word === 'u');
     return total.length;
 }
