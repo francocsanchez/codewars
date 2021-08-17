@@ -11,11 +11,11 @@
 * [Count of positives / sum of negatives](https://github.com/francocsanchez/codewars/blob/master/contarPositivosSumarNegativos.js)
 * [Create Phone Number](https://github.com/francocsanchez/codewars/blob/master/createPhoneNumber.js)
 * [Remove String Spaces](https://github.com/francocsanchez/codewars/blob/master/eliminarEspacios.js)
+* [Invert Values](https://github.com/francocsanchez/codewars/blob/master/InvertValues.js)
 * [Java Script Array Filter](https://github.com/francocsanchez/codewars/blob/master/javaScriptArrayFilter.js)
 * [Multiple of index](https://github.com/francocsanchez/codewars/blob/master/multipleofindex.js)
 * [Multiply](https://github.com/francocsanchez/codewars/blob/master/multiply.js)
 * [Paul's Misery](https://github.com/francocsanchez/codewars/blob/master/paulssMisery.js)
 * [Sum Of Positive](https://github.com/francocsanchez/codewars/blob/master/sumOfPositive.js)
-* [Invert Values](https://github.com/francocsanchez/codewars/blob/master/InvertValues.js)
 
 _Ejercicios obtenidos del sitio de www.codewars.com_
