@@ -15,5 +15,7 @@
 * [Multiple of index](https://github.com/francocsanchez/codewars/blob/master/multipleofindex.js)
 * [Multiply](https://github.com/francocsanchez/codewars/blob/master/multiply.js)
 * [Paul's Misery](https://github.com/francocsanchez/codewars/blob/master/paulssMisery.js)
+* [Sum Of Positive](https://github.com/francocsanchez/codewars/blob/master/sumOfPositive.js)
+* [Invert Values](https://github.com/francocsanchez/codewars/blob/master/InvertValues.js)
 
 _Ejercicios obtenidos del sitio de www.codewars.com_
