@@ -12,6 +12,7 @@
 * [Create Phone Number](https://github.com/francocsanchez/codewars/blob/master/createPhoneNumber.js)
 * [Remove String Spaces](https://github.com/francocsanchez/codewars/blob/master/eliminarEspacios.js)
 * [Find The Small Integer In The Array](https://github.com/francocsanchez/codewars/blob/master/findTheSmallestIntegerInTheArray.js)
+* [Fundamentals Return](https://github.com/francocsanchez/codewars/blob/master/fundamentalsReturn.js)
 * [Invert Values](https://github.com/francocsanchez/codewars/blob/master/InvertValues.js)
 * [Java Script Array Filter](https://github.com/francocsanchez/codewars/blob/master/javaScriptArrayFilter.js)
 * [Multiple of index](https://github.com/francocsanchez/codewars/blob/master/multipleofindex.js)
