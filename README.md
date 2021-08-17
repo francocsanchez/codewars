@@ -2,7 +2,7 @@
 
 ### Katas
 * [Abbreviatea Two Word Name](https://github.com/francocsanchez/codewars/blob/master/abbreviateaTwoWordName.js)
-* [Array de divisores](https://github.com/francocsanchez/codewars/blob/master/arrayDeDivisores.js)
+* [Binary Addition](https://github.com/francocsanchez/codewars/blob/master/binaryAddition.js)
 * [Well of Ideas - Easy Version](https://github.com/francocsanchez/codewars/blob/master/buenasYMalasIdeas.js)
 * [Counting sheep...](https://github.com/francocsanchez/codewars/blob/master/contadorDeOvejas.js)
 * [Vowel Count](https://github.com/francocsanchez/codewars/blob/master/contadorVocales.js)
@@ -11,6 +11,7 @@
 * [Remove String Spaces](https://github.com/francocsanchez/codewars/blob/master/eliminarEspacios.js)
 * [Java Script Array Filter](https://github.com/francocsanchez/codewars/blob/master/javaScriptArrayFilter.js)
 * [Multiple of index](https://github.com/francocsanchez/codewars/blob/master/multipleofindex.js)
+* [Multiply](https://github.com/francocsanchez/codewars/blob/master/multiply.js)
 * [Paul's Misery](https://github.com/francocsanchez/codewars/blob/master/paulssMisery.js)
 
 _Ejercicios obtenidos del sitio de www.codewars.com_
