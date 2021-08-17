@@ -1,5 +1,7 @@
 ![badge-codewars](https://www.codewars.com/users/francocsanchez/badges/large)
 
+![badge-codewars](https://www.codewars.com/users/PilotGeorge88/badges/large)
+
 ### Katas
 * [Abbreviatea Two Word Name](https://github.com/francocsanchez/codewars/blob/master/abbreviateaTwoWordName.js)
 * [Binary Addition](https://github.com/francocsanchez/codewars/blob/master/binaryAddition.js)
