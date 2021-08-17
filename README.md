@@ -9,6 +9,7 @@
 * [Count of positives / sum of negatives](https://github.com/francocsanchez/codewars/blob/master/contarPositivosSumarNegativos.js)
 * [Remove String Spaces](https://github.com/francocsanchez/codewars/blob/master/eliminarEspacios.js)
 * [Java Script Array Filter](https://github.com/francocsanchez/codewars/blob/master/javaScriptArrayFilter.js)
+* [Multiple of index](https://github.com/francocsanchez/codewars/blob/master/multipleofindex.js)
 * [Paul's Misery](https://github.com/francocsanchez/codewars/blob/master/paulssMisery.js)
 
 _Ejercicios obtenidos del sitio de www.codewars.com_
