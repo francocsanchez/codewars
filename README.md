@@ -9,6 +9,7 @@
 * [Counting sheep...](https://github.com/francocsanchez/codewars/blob/master/contadorDeOvejas.js)
 * [Vowel Count](https://github.com/francocsanchez/codewars/blob/master/contadorVocales.js)
 * [Count of positives / sum of negatives](https://github.com/francocsanchez/codewars/blob/master/contarPositivosSumarNegativos.js)
+* [Count The Divisors Of A Numbers](https://github.com/francocsanchez/codewars/blob/master/countTheDivisorsOfANumber.js)
 * [Create Phone Number](https://github.com/francocsanchez/codewars/blob/master/createPhoneNumber.js)
 * [Remove String Spaces](https://github.com/francocsanchez/codewars/blob/master/eliminarEspacios.js)
 * [Find The Small Integer In The Array](https://github.com/francocsanchez/codewars/blob/master/findTheSmallestIntegerInTheArray.js)
